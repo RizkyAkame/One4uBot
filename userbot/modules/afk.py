@@ -267,3 +267,4 @@ CMD_HELP.update({
 you telling them that you are AFK(reason).\n\nSwitches off AFK when you type back anything, anywhere.\
 "
 })
+
